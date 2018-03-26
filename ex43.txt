@@ -1,0 +1,11 @@
+* Map
+  - next_scene
+  - opening_scene
+* Engine
+  - play
+* Scene
+  - enter
+  * Death
+  * Central Corridor
+  * Laser Weapon Armory
+  * Escape Pod
